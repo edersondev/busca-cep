@@ -1,2 +1,2 @@
 # busca-cep
-Script para buscar o endereço pelo cep usando o banco de dados do Republica Virtual
+Exemplo de como recuperar o enderço pelo CEP usando o webservice dos Correios.
